@@ -1,0 +1,9 @@
+{
+	"name": "ADFGITDEMONik",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4dd3aa23-a561-422b-88b5-8dd75e82a940",
+		"tenantId": "7caf268a-e621-4305-85c1-4546deb4a69a"
+	}
+}
